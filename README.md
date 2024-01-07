@@ -59,6 +59,9 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 ## In-Depth Analysis and Conclusions
 
 ### Part 1: Key Observations
+- **Data Integrity:** The combined dataset showed minimal missing or duplicated values, indicating good data quality for analysis.
+- **Strong Correlations:** Several variables exhibited strong correlations with the Happiness Score. Notably, GDP, Family, and Life Expectancy were highly correlated, suggesting their significant impact on a country's happiness.
+- **Variable Distributions:** The distribution of variables like Government Trustworthiness displayed more variability, indicating diverse perceptions of government across different countries.
 
 
 
