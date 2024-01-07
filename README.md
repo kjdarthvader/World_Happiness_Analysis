@@ -51,4 +51,15 @@ The dataset used in this project includes the World Happiness Reports from 2015 
    - Basemap: Used for creating global and regional maps, highlighting how different happiness metrics vary across countries.
    - Plotly Maps: Enhanced visualizations with animated choropleth maps, providing an interactive way to observe changes over the years.
 
+## Data Insights
+- **Highs and Lows Analysis:** Identification of countries with extreme values in various metrics, providing insights into the best and worst performers in aspects like GDP, family support, and life expectancy.
+- **Parallel Coordinate Map:** A comprehensive view of how each column's data points are interconnected, offering a multi-dimensional perspective on the dataset.
+- **Trend Analysis:** Examination of global and regional trends, highlighting disparities and commonalities among countries in different geographic locations.
+
+## In-Depth Analysis and Conclusions
+
+### Part 1: Key Observations
+
+
+
 
