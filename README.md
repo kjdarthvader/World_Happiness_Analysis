@@ -58,6 +58,7 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 
 ## Flowchart
 
+![image](https://github.com/kjdarthvader/World_Happiness_Analysis/blob/main/WHA_Technical_Flowchart.png))
 
 ## In-Depth Analysis and Conclusions
 
