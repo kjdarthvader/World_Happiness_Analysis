@@ -48,7 +48,7 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 ## Interactive Data Visualization and Geospatial Analysis
 1. Interactive Plots: Utilizing plotly, interactive scatter plots were created to dynamically explore relationships between variables over the years.
 2. Geospatial Mapping:
-- Basemap: Used for creating global and regional maps, highlighting how different happiness metrics vary across countries.
-- Plotly Maps: Enhanced visualizations with animated choropleth maps, providing an interactive way to observe changes over the years.
+   - Basemap: Used for creating global and regional maps, highlighting how different happiness metrics vary across countries.
+   - Plotly Maps: Enhanced visualizations with animated choropleth maps, providing an interactive way to observe changes over the years.
 
 
