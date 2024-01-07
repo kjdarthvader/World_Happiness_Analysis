@@ -41,9 +41,9 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 - **Data Cleaning:** Renaming and correcting country names for accurate mapping and analysis. The project also addresses missing values and inconsistencies across different report formats.
 
 ## Exploratory Data Analysis (EDA)
-- Descriptive Statistics: The describe method provided a statistical summary of the dataset, giving insights into the mean, standard deviation, and quartile distribution of each metric.
-- Data Visualization: Various plots, including histograms and pair plots, were created to understand distributions and relationships between different variables. Histograms were enhanced with fitted normal distributions to assess the deviation from normality.
-- Correlation Analysis: An annotated heatmap was used to analyze correlations between different variables, highlighting relationships crucial for understanding what influences happiness scores.
+- **Descriptive Statistics:** The describe method provided a statistical summary of the dataset, giving insights into the mean, standard deviation, and quartile distribution of each metric.
+- **Data Visualization:** Various plots, including histograms and pair plots, were created to understand distributions and relationships between different variables. Histograms were enhanced with fitted normal distributions to assess the deviation from normality.
+- **Correlation Analysis:** An annotated heatmap was used to analyze correlations between different variables, highlighting relationships crucial for understanding what influences happiness scores.
 
 
 
