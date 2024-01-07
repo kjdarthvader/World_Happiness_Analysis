@@ -12,3 +12,17 @@ This project presents a detailed analysis of the World Happiness Reports from 20
 The dataset used in this project includes the World Happiness Reports from 2015 to 2019, sourced from Kaggle. Each year's report comprises various metrics, such as GDP per capita, family support, life expectancy, freedom, trust in government, and generosity, contributing to a country's overall happiness score.
 
 **Dataset Link:** https://www.kaggle.com/datasets/unsdsn/world-happiness
+
+**Columns:**
+
+- **Country:** The country's name.
+- **Region:** The geographic region to which the country belongs.
+- **Happiness Rank:** The rank of the country based on the Happiness Score.
+- **Happiness Score:** A metric measured by asking sampled people to rate their happiness on a scale of 0 to 10.
+- **Standard Error:** The standard error of the happiness score.
+- **Economy (GDP per Capita):** Contribution of GDP to the Happiness Score.
+- **Family:** Contribution of family support to the Happiness Score.
+- **Health (Life Expectancy):** Contribution of life expectancy to the Happiness Score.
+- **Freedom:** Contribution of freedom to the Happiness Score.
+- **Trust (Government Corruption):** Contribution of the perception of corruption to the Happiness Score.
+- **Generosity:** The extent of generosity in the country.
