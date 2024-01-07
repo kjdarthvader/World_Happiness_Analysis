@@ -56,6 +56,9 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 - **Parallel Coordinate Map:** A comprehensive view of how each column's data points are interconnected, offering a multi-dimensional perspective on the dataset.
 - **Trend Analysis:** Examination of global and regional trends, highlighting disparities and commonalities among countries in different geographic locations.
 
+## Flowchart
+
+
 ## In-Depth Analysis and Conclusions
 
 ### Part 1: Key Observations
