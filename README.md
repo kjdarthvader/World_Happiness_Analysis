@@ -45,7 +45,10 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 - **Data Visualization:** Various plots, including histograms and pair plots, were created to understand distributions and relationships between different variables. Histograms were enhanced with fitted normal distributions to assess the deviation from normality.
 - **Correlation Analysis:** An annotated heatmap was used to analyze correlations between different variables, highlighting relationships crucial for understanding what influences happiness scores.
 
-
-
+## Interactive Data Visualization and Geospatial Analysis
+1. Interactive Plots: Utilizing plotly, interactive scatter plots were created to dynamically explore relationships between variables over the years.
+2. Geospatial Mapping:
+- Basemap: Used for creating global and regional maps, highlighting how different happiness metrics vary across countries.
+- Plotly Maps: Enhanced visualizations with animated choropleth maps, providing an interactive way to observe changes over the years.
 
 
