@@ -26,3 +26,26 @@ The dataset used in this project includes the World Happiness Reports from 2015 
 - **Freedom:** Contribution of freedom to the Happiness Score.
 - **Trust (Government Corruption):** Contribution of the perception of corruption to the Happiness Score.
 - **Generosity:** The extent of generosity in the country.
+
+## Libraries and Tools 
+- **Data Manipulation:** pandas, numpy
+- **Data Visualization:** seaborn, matplotlib, plotly
+- **Geospatial Analysis:** mpl_toolkits.basemap
+- **Statistical Analysis:** scipy.stats
+- **Data Profiling:** pandas_profiling
+- **Country Data Management:** pycountry
+
+## Data Processing
+- **Data Loading:** Separate datasets for each year (2015-2019) were loaded into Pandas dataframes.
+- **Data Standardization:** Given the variations in dataset formats across years, a custom function parse_report was used to standardize and combine datasets. This function renames columns for consistency, calculates quartiles, and appends a 'Year' column.
+- **Data Cleaning:** Renaming and correcting country names for accurate mapping and analysis. The project also addresses missing values and inconsistencies across different report formats.
+
+## Exploratory Data Analysis (EDA)
+- Descriptive Statistics: The describe method provided a statistical summary of the dataset, giving insights into the mean, standard deviation, and quartile distribution of each metric.
+- Data Visualization: Various plots, including histograms and pair plots, were created to understand distributions and relationships between different variables. Histograms were enhanced with fitted normal distributions to assess the deviation from normality.
+- Correlation Analysis: An annotated heatmap was used to analyze correlations between different variables, highlighting relationships crucial for understanding what influences happiness scores.
+
+
+
+
+
